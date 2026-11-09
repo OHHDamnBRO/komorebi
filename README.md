@@ -1,3 +1,7 @@
+## Windows-Arbeitsumgebungen
+
+Die neue eigenständige Windows-Anwendung mit Layoutprofilen, Programmgruppen, Rastern und Fenster-Agent liegt unter [windows/](windows/README.md).
+
 <p align="center"><img src="https://raw.githubusercontent.com/christianloopp/komorebi/master/screenshots/komorebi-icon.png" width="130"></p>
 <h2 align="center">Komorebi - Animated Wallpapers for Linux</h2>
 <p align="center">(n) sunlight filtering through trees.</p>
